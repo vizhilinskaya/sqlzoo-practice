@@ -1,4 +1,4 @@
--- 1 task: Read the notes about this table. Observe the result of running this SQL command to show the name, continent and population of all countries.
+-- 1 task: [Read the notes about this table.](01_SELECT/tables.sql) Observe the result of running this SQL command to show the name, continent and population of all countries.
 SELECT name, continent, population 
 FROM world;
 
